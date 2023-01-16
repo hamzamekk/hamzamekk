@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Python(Django)**
 
-- 👨‍💻 All of my projects are available at [https://www.hamzamekk.com](https://www.hamzamekk.com)
+- 👨‍💻 All of my projects are available at [https://www.hamzamekk.com](https://www.hamzamekk.dev)
 
 - 💬 Ask me about **React Native**
 
